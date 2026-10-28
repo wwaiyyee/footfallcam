@@ -1,0 +1,18 @@
+model_path: ../models/yolo11s.pt
+tag_reference: ../assets/tag_reference.png
+sample_path: ../sample.mp4
+detector_threshold: 0.20
+detector_iou: 0.50
+detector_rotations: [0, 90, 180, 270]
+image_size: 960
+device: cpu
+tag_threshold: 0.88
+tag_min_width: 12
+tag_max_width: 36
+tag_width_step: 4
+tag_rotation_step: 30
+confirmation_hits: 2
+confirmation_window: 20
+max_track_gap: 15
+tracker_buffer: 15
+tracker_match_threshold: 0.80
