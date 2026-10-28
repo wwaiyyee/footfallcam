@@ -1,0 +1,8 @@
+{
+  "name": "YOLO11m",
+  "filename": "yolo11m.pt",
+  "source": "https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11m.pt",
+  "sha256": "d5ffc1a674953a08e11a8d21e022781b1b23a19b730afc309290bd9fb5305b95",
+  "bytes": 40684120,
+  "license_note": "Ultralytics AGPL-3.0 / enterprise; review licensing before redistribution."
+}
