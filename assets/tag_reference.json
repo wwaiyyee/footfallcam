@@ -1,0 +1,47 @@
+{
+  "source": "initial reference document",
+  "source_sha256": "4a2707b837467c8d6b58fa2d883639c6686e6f1f4337cd08403aa89258dea067",
+  "source_image_dimensions": [
+    218,
+    233
+  ],
+  "crop_xyxy": [
+    114,
+    77,
+    150,
+    99
+  ],
+  "reference_sha256": "10f2f7bb16f12f8b4d046226f6f250b4adac47de8da8bf9a74537a718aebe3fd",
+  "description": "Black-and-white name-tag pattern only; not a person or clothing exemplar.",
+  "additional_tag_only_exemplars": [
+    {
+      "filename": "tag_reference_1.png",
+      "source_image_dimensions": [
+        157,
+        205
+      ],
+      "crop_xyxy": [
+        89,
+        98,
+        110,
+        113
+      ],
+      "sha256": "a99492d0ec9dcc212ab30a3f4f6e43ff1f8975cc5ea2a017288722f8972265dc"
+    },
+    {
+      "filename": "tag_reference_2.png",
+      "source_image_dimensions": [
+        130,
+        183
+      ],
+      "crop_xyxy": [
+        47,
+        110,
+        69,
+        120
+      ],
+      "sha256": "040699ddc8bc7af53abfe9af999a71d66fbda74cc952fc56d4a8477cddd34476"
+    }
+  ],
+  "validation_note": "Snapshot tag patches originate from the supplied sample; sample results are development observations, not independent validation."
+}
